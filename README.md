@@ -19,6 +19,7 @@ Backend developer focused on Python and JavaScript. I build REST APIs, CLI tools
 | [uni-task-tracker](https://github.com/ch-devx/uni-task-tracker) | Task manager frontend · [Live demo ↗](https://ch-devx.github.io/uni-task-tracker/) | HTML · CSS · JS |
 | [chatbot-web](https://github.com/ch-devx/chatbot-web) | Web chatbot powered by Groq (Llama 3.1) | Flask · Python |
 | [github-activity-cli](https://github.com/ch-devx/github-activity-cli) | CLI tool that fetches GitHub public activity via the Events API | Python |
+| [binance-pay-history](https://github.com/ch-devx/binance-pay-history) | CLI that unifies Binance Pay + BEP20 deposits into a single stablecoin balance report | Python |
 | [tasker_cli](https://github.com/ch-devx/tasker_cli) | Command-line task manager | Python |
 
 ## 📊 GitHub Stats
