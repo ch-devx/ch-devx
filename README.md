@@ -29,4 +29,4 @@ Backend developer focused on Python and JavaScript. I build REST APIs, CLI tools
 
 ## 🌐 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosheredia2709@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ch.devx@gmail.com)
